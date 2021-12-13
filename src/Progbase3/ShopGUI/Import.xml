@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Connections>
+    <Connection ProductID="8" OrderID="4"/>
+    <Connection ProductID="1" OrderID="3"/>
+    <Connection ProductID="1" OrderID="2"/>
+    <Connection ProductID="7" OrderID="42"/>
+</Connections>
